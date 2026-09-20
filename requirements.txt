@@ -1,0 +1,28 @@
+# Core ML / NLP
+numpy==1.26.4
+pandas
+scikit-learn
+torch>=2.0          # CPU ok
+torchvision          # must match torch (use torchvision==0.29.0 with torch 2.14)
+transformers>=4.40
+datasets
+sentence-transformers
+faiss-cpu
+rank-bm25
+
+# Generation backend (Groq)
+groq
+
+# Deployment
+fastapi
+uvicorn
+
+# Notebooks / plotting
+jupyter
+ipykernel
+nbformat
+nbclient
+matplotlib
+seaborn
+
+# Project source layout imports (local dirs on sys.path)
