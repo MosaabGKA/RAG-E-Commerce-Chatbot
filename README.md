@@ -1,4 +1,4 @@
-# NLP Final Task 2026 — RAG-Based E-Commerce Customer Support Chatbot
+# RAG-Based E-Commerce Customer Support Chatbot
 
 End-to-end chatbot that processes every customer message through **four stages** before answering:
 
